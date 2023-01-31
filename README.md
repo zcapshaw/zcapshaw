@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zcapshaw
-- 👀 I’m interested in React, Flutter, and web3 
+- 👀 I’m interested in React, NextJS, and the T3 stack 
 - 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on web3 and NFT projects
+- 💞️ I’m looking to collaborate on startup ideas
 - 📫 How to reach me @zachcapshaw on Twitter
 
 <!---
